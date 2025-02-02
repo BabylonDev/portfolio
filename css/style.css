@@ -42,7 +42,7 @@ figure {
   width: 100%; }
   figure figcaption {
     font-size: 16px;
-    width: 80%;
+    width: 70%;
     margin: 20px auto 0px auto;
     color: #b3b3b3;
     font-style: italic;
@@ -131,7 +131,7 @@ figure {
         margin: 0 0 10px 0;
         padding: 0;
         list-style: none;
-        font-size: 40px;
+        font-size: 18px;
         font-weight: 500;
         text-transform: uppercase;
         letter-spacing: 1px; }
@@ -249,7 +249,7 @@ figure {
     #colorlib-hero .flexslider .flex-control-nav {
       bottom: 20px;
       z-index: 1000;
-      left: 20px;
+      left: 40px;
       float: left;
       width: auto; }
       @media screen and (max-width: 768px) {
@@ -281,7 +281,7 @@ figure {
         display: table-cell;
         vertical-align: center;
         min-height: 700px;
-        padding: 10.5em;
+        padding: 2.5em;
         position: relative; }
         @media screen and (max-width: 768px) {
           #colorlib-hero .flexslider .slider-text > .slider-text-inner {
